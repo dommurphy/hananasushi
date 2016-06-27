@@ -4,7 +4,9 @@
 @import '_mixins.scss';
 @import '_fontello.scss';
 
-$base-font: (Arial, Helvetica, sans-serif);
+$base-font: (Roboto, Helvetica, sans-serif);
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 // *********************************************
 // Settings
