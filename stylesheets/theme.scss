@@ -4,7 +4,8 @@
 @import '_mixins.scss';
 @import '_fontello.scss';
 
-$base-font: (Permanent Marker, Helvetica, sans-serif);
+$base-font: (Roboto, Helvetica, sans-serif);
+$base-font2: (Permanent Marker, Helvetica, sans-serif);
 
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
@@ -277,7 +278,7 @@ $scroll-up-radius: 0em;
 // ----------
 // Category
 // ----------
-@mixin category-title-font { @include set-font($base-font, 2.3rem, #212121, 700, uppercase); }
+@mixin category-title-font { @include set-font($base-font2, 2.3rem, #212121, 700, uppercase); }
 @mixin subcategory-title-font { @include set-font($base-font, 1.7rem, #212121, 700); }
 @mixin category-description-font { @include set-font($base-font, 1.4rem, #212121); }
 
