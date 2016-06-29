@@ -369,6 +369,8 @@ input, select, textarea { @include field-font }
 .header { background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/98/Japanese_lanterns_banner.jpg");;}
 .header__logo-image {max-height: 120px;}
 
+.dropdown-menu__header-link{text-decoration-color: white;}
+
 @media screen and (max-width: 52.5em) {
   .header { border-bottom: 1px solid $header-border-color; }
 }
