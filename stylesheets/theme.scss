@@ -364,7 +364,7 @@ body { @include body-font;}
 input, select, textarea { @include field-font }
 
 // Header
-.header { background-image: url("https://upload.wikmedia.org/wikipedia/commons/9/98/Japanese_lanterns_banner.jpg");; 
+.header { background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/98/Japanese_lanterns_banner.jpg");; 
 		   max-height: 480px;}
 
 @media screen and (max-width: 52.5em) {
