@@ -288,8 +288,8 @@ $scroll-up-radius: 0em;
 $product-even-background-color: #fafafa;
 $product-odd-background-color: #f0f0f0;
 @mixin product-name-font { @include set-font($base-font, 1.6rem, #212121, 700); }
-@mixin product-price-font { @include set-font($base-font, 1.6rem, #212121, 700); }
-@mixin product-description-font { @include set-font($base-font, 1.4rem, #212121); }
+@mixin product-price-font { @include set-font($base-font2, 1.6rem, #212121, 700); }
+@mixin product-description-font { @include set-font($base-font2, 1.4rem, #212121); }
 @mixin product-button-font { @include set-font($base-font, 1.4rem); }
 
 // Favourite icon
