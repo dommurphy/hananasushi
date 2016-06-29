@@ -50,7 +50,7 @@ $form-button-link-hover-color: #000;
 // ----------
 $dropdown-menu-color: #fff;
 $dropdown-menu-hover-color: #000;
-$dropdown-menu-hover-background-color: #c98f3d;
+$dropdown-menu-hover-background-color: #fff;
 @mixin dropdown-menu-font { @include set-font($base-font, 1.4rem, $dropdown-menu-color) }
 @mixin dropdown-menu-item-font { @include set-font($base-font, 1.4rem); }
 
