@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4815d3b0-fc74-4e96-a143-4d05f32a2b3a" name="Default" comment="">
+    <list default="true" id="4815d3b0-fc74-4e96-a143-4d05f32a2b3a" name="Default" comment="Hello">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/theme.scss" afterPath="$PROJECT_DIR$/stylesheets/theme.scss" />
     </list>
     <ignored path="hananasushi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/stylesheets/theme.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="369" column="39" selection-start-line="369" selection-start-column="39" selection-end-line="369" selection-end-column="39" />
+              <caret line="369" column="40" selection-start-line="369" selection-start-column="40" selection-end-line="369" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -194,7 +193,7 @@
       <workItem from="1467219164749" duration="1892000" />
       <workItem from="1467225401425" duration="187000" />
       <workItem from="1467226621758" duration="103000" />
-      <workItem from="1467226745782" duration="730000" />
+      <workItem from="1467226745782" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/dommurphy/hananasushi&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;">
       <created>1467219299439</created>
@@ -252,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467227530767</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Hello">
+      <created>1467227599506</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1467227599506</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2912000" />
+    <option name="totallyTimeSpent" value="2921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1404" height="830" extended-state="0" />
@@ -328,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/stylesheets/theme.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="369" column="39" selection-start-line="369" selection-start-column="39" selection-end-line="369" selection-end-column="39" />
+          <caret line="369" column="40" selection-start-line="369" selection-start-column="40" selection-end-line="369" selection-end-column="40" />
           <folding />
         </state>
       </provider>
