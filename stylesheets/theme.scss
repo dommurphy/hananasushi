@@ -35,7 +35,7 @@ $form-button-hover-background-color: #555;
 $form-button-padding: (1em 2em);
 $form-button-border-radius: 0em;
 @mixin form-button-font { @include set-font($base-font, 1.4rem); }
-
+	
 $form-button-link-color: #212121;
 $form-button-link-hover-color: #000;
 @mixin form-button-link-font { @include set-font($base-font, 1.4rem, $form-button-link-color); }
@@ -364,7 +364,8 @@ body { @include body-font;}
 input, select, textarea { @include field-font }
 
 // Header
-.header { background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/98/Japanese_lanterns_banner.jpg");; }
+.header { background-image: url("https://upload.wikmedia.org/wikipedia/commons/9/98/Japanese_lanterns_banner.jpg");; 
+		   max-height: 480px;}
 
 @media screen and (max-width: 52.5em) {
   .header { border-bottom: 1px solid $header-border-color; }
