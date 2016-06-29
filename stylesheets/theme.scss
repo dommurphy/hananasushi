@@ -48,7 +48,7 @@ $form-button-link-hover-color: #000;
 // User + shop menus
 // (desktop only)
 // ----------
-$dropdown-menu-color: #212121;
+$dropdown-menu-color: #000;
 $dropdown-menu-hover-color: #fff;
 $dropdown-menu-hover-background-color: #212121;
 @mixin dropdown-menu-font { @include set-font($base-font, 1.4rem, $dropdown-menu-color) }
@@ -399,6 +399,7 @@ input, select, textarea { @include field-font }
 .shop-info__title { color: $shop-info-title-color; }
 .shop-info__link { color: $shop-info-link-color; }
 .shop-info__feature-content { color: $shop-info-color; }
+
 
 .shop-info .social-icons__link { color: $shop-info-social-icons-color; background-color: $shop-info-social-icons-background-color; }
 .shop-info .social-icons__link:hover { color: $shop-info-social-icons-hover-color; background-color: $shop-info-social-icons-hover-background-color; }
